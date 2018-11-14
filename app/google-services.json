@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1022164653083",
+    "firebase_url": "https://primeirofirebaseapp-e5107.firebaseio.com",
+    "project_id": "primeirofirebaseapp-e5107",
+    "storage_bucket": "primeirofirebaseapp-e5107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022164653083:android:6a1b2e0e139ac911",
+        "android_client_info": {
+          "package_name": "com.asterodds.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022164653083-913fe4mqlmcj7gaeoq8vrcp571b6gpta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRcjK-yMj3bWFkWGW3IIxFcBPGIJUhpMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
